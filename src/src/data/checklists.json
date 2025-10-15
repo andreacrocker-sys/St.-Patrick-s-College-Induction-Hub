@@ -1,0 +1,13 @@
+{
+  "teacher": [
+    {
+      "id": "s-1",
+      "title": "Welcome & Orientation",
+      "items": [
+        {"id": "t-1", "label": "Meet your Mentor", "done": false},
+        {"id": "t-2", "label": "Collect Staff ID / Lanyard", "done": false},
+        {"id": "t-3", "label": "Set up Email & LMS access", "done": false}
+      ]
+    }
+  ]
+}
