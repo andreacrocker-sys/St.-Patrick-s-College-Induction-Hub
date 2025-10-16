@@ -1,0 +1,88 @@
+{
+  "teacher": [
+    {
+      "id": "s-1",
+      "title": "Welcome & Orientation",
+      "items": [
+        {
+          "id": "t-1",
+          "label": "Meet your Mentor"
+        },
+        {
+          "id": "t-2",
+          "label": "Collect Staff ID / Lanyard"
+        },
+        {
+          "id": "t-3",
+          "label": "Set up Email & LMS access"
+        },
+        {
+          "id": "t-4",
+          "label": "WHS Induction completed"
+        }
+      ]
+    },
+    {
+      "id": "s-2",
+      "title": "Teaching & Learning",
+      "items": [
+        {
+          "id": "t-5",
+          "label": "Read College Pedagogy Overview"
+        },
+        {
+          "id": "t-6",
+          "label": "Plan first two weeks (units/assessment)"
+        }
+      ]
+    }
+  ],
+  "aide": [
+    {
+      "id": "s-3",
+      "title": "Classroom Support",
+      "items": [
+        {
+          "id": "t-7",
+          "label": "Read Support Procedures"
+        },
+        {
+          "id": "t-8",
+          "label": "WHS Induction completed"
+        }
+      ]
+    }
+  ],
+  "ancillary": [
+    {
+      "id": "s-4",
+      "title": "Operations",
+      "items": [
+        {
+          "id": "t-9",
+          "label": "Site Orientation"
+        },
+        {
+          "id": "t-10",
+          "label": "Emergency Procedures"
+        }
+      ]
+    }
+  ],
+  "leadership": [
+    {
+      "id": "s-5",
+      "title": "Leadership Onboarding",
+      "items": [
+        {
+          "id": "t-11",
+          "label": "Meet Direct Reports"
+        },
+        {
+          "id": "t-12",
+          "label": "Review Policies & Handbook"
+        }
+      ]
+    }
+  ]
+}
