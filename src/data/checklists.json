@@ -1,0 +1,1278 @@
+{
+  "teacher": [
+    {
+      "id": "s-1",
+      "title": "General Induction",
+      "items": [
+        {
+          "id": "t-1",
+          "label": "Staff Induction Handbook",
+          "done": false
+        },
+        {
+          "id": "t-2",
+          "label": "Aims of the induction process",
+          "done": false
+        },
+        {
+          "id": "t-3",
+          "label": "Introducing teachers to the practices, procedures and ethos of St Patrick\u2019s College",
+          "done": false
+        },
+        {
+          "id": "t-4",
+          "label": "Understanding of AITSL requirements for beginning and experienced teachers (including understanding the responsibilities and accountabilities as a member of the teaching profession)",
+          "done": false
+        },
+        {
+          "id": "t-5",
+          "label": "Requirements for registration with QCT",
+          "done": false
+        },
+        {
+          "id": "t-6",
+          "label": "CEDR accreditation requirements for teachers",
+          "done": false
+        },
+        {
+          "id": "t-7",
+          "label": "Developing and enhancing quality teaching and learning to promote improved pedagogical practice through collaboration and professional growth",
+          "done": false
+        },
+        {
+          "id": "t-8",
+          "label": "Induction for early career teachers and teachers new to the college",
+          "done": false
+        },
+        {
+          "id": "t-9",
+          "label": "Workplace and community orientation (mandatory training, policy compliance and school processes)",
+          "done": false
+        },
+        {
+          "id": "t-10",
+          "label": "Roles and responsibilities (AITSL Standards, Teacher Portfolio for the purposes of gaining full registration with QCT)",
+          "done": false
+        },
+        {
+          "id": "t-11",
+          "label": "Professional Practices (Explicit Instruction, Behaviour Management skills, RTP and High Impact Teaching Strategies)",
+          "done": false
+        },
+        {
+          "id": "t-12",
+          "label": "Relationships and wellbeing (Mentoring)",
+          "done": false
+        },
+        {
+          "id": "t-13",
+          "label": "Workplace and Community Orientation",
+          "done": false
+        },
+        {
+          "id": "t-14",
+          "label": "Phase A - Initial visit to the College",
+          "done": false
+        },
+        {
+          "id": "t-15",
+          "label": "Phase B - First Formal Attendance at College",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-2",
+      "title": "Either",
+      "items": [
+        {
+          "id": "t-16",
+          "label": "Term 1: January - week prior to student\u2019s arriving",
+          "done": false
+        },
+        {
+          "id": "t-17",
+          "label": "Phase C - As per schedule over the course of the year",
+          "done": false
+        },
+        {
+          "id": "t-18",
+          "label": "Further elaboration of school processes and policies",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-3",
+      "title": "Reporting",
+      "items": [
+        {
+          "id": "t-19",
+          "label": "Professional Practices (Explicit Instruction, Behaviour Management skills, RTP and High Impact Teaching Strategies)-See Appendices",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-4",
+      "title": "Goal Setting",
+      "items": [
+        {
+          "id": "t-20",
+          "label": "Phase D - Ongoing Review and Support including:",
+          "done": false
+        },
+        {
+          "id": "t-21",
+          "label": "Goal setting and Observation Cycle",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-5",
+      "title": "Phase A",
+      "items": [
+        {
+          "id": "t-22",
+          "label": "Upon arrival at St Patrick\u2019s College for the first visit and orientation",
+          "done": false
+        },
+        {
+          "id": "t-23",
+          "label": "SUPPORT PERSON: Office Manager",
+          "done": false
+        },
+        {
+          "id": "t-24",
+          "label": "SUPPORT PERSON: Principal/Deputy Principal or AP Administration/AP Welfare",
+          "done": false
+        },
+        {
+          "id": "t-25",
+          "label": "SUPPORT PERSON: AP MIssion",
+          "done": false
+        },
+        {
+          "id": "t-26",
+          "label": "SUPPORT PERSON: Educational Mentor",
+          "done": false
+        },
+        {
+          "id": "t-27",
+          "label": "SUPPORT PERSON: Buddy Teacher",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-6",
+      "title": "Checklist",
+      "items": [
+        {
+          "id": "t-28",
+          "label": "DETAILS",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-7",
+      "title": "ACTION",
+      "items": [
+        {
+          "id": "t-29",
+          "label": "DATE",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-8",
+      "title": "Office Manager",
+      "items": [
+        {
+          "id": "t-30",
+          "label": "Staff Personal Details Form",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-9",
+      "title": "Staff Immunisation Form",
+      "items": [
+        {
+          "id": "t-31",
+          "label": "Authorisation for Payroll deduction (as applicable)",
+          "done": false
+        },
+        {
+          "id": "t-32",
+          "label": "IT Admin (email address, photo and password)",
+          "done": false
+        },
+        {
+          "id": "t-33",
+          "label": "ESS Manager (email address/payroll access)",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-10",
+      "title": "Teacher Registration",
+      "items": [
+        {
+          "id": "t-34",
+          "label": "Newsletter profile",
+          "done": false
+        },
+        {
+          "id": "t-35",
+          "label": "Allocate pigeonhole",
+          "done": false
+        },
+        {
+          "id": "t-36",
+          "label": "Order badge",
+          "done": false
+        },
+        {
+          "id": "t-37",
+          "label": "Latest Newsletter is emailed to staff member",
+          "done": false
+        },
+        {
+          "id": "t-38",
+          "label": "Collate Induction Package -Stationery Supplies, College diary, copy of staff handbook, copy of RTP handbook",
+          "done": false
+        },
+        {
+          "id": "t-39",
+          "label": "Principal/Deputy Principal/AP Administration/AP Welfare",
+          "done": false
+        },
+        {
+          "id": "t-40",
+          "label": "Welcome new staff member at Morning Briefing or Staff Meeting",
+          "done": false
+        },
+        {
+          "id": "t-41",
+          "label": "Allocate House group and introduce to House Coordinator",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-11",
+      "title": "Allocate Homeroom",
+      "items": [
+        {
+          "id": "t-42",
+          "label": "Allocate staffroom desk",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-12",
+      "title": "Issue Timetable",
+      "items": [
+        {
+          "id": "t-43",
+          "label": "PGD roster",
+          "done": false
+        },
+        {
+          "id": "t-44",
+          "label": "Staff absence procedures",
+          "done": false
+        },
+        {
+          "id": "t-45",
+          "label": "Introduce new staff members on assembly",
+          "done": false
+        },
+        {
+          "id": "t-46",
+          "label": "AP Mission",
+          "done": false
+        },
+        {
+          "id": "t-47",
+          "label": "Religious life of the College",
+          "done": false
+        },
+        {
+          "id": "t-48",
+          "label": "Mass/Liturgies/Youth Mass/Brekky Van/Prayer at the College.",
+          "done": false
+        },
+        {
+          "id": "t-49",
+          "label": "Charism of St. Patrick\u2019s College",
+          "done": false
+        }
+      ]
+    }
+  ],
+  "aide": [
+    {
+      "id": "s-1",
+      "title": "General Induction",
+      "items": [
+        {
+          "id": "t-1",
+          "label": "Staff Induction Handbook",
+          "done": false
+        },
+        {
+          "id": "t-2",
+          "label": "Aims of the induction process",
+          "done": false
+        },
+        {
+          "id": "t-3",
+          "label": "Introducing teachers to the practices, procedures and ethos of St Patrick\u2019s College",
+          "done": false
+        },
+        {
+          "id": "t-4",
+          "label": "Understanding of AITSL requirements for beginning and experienced teachers (including understanding the responsibilities and accountabilities as a member of the teaching profession)",
+          "done": false
+        },
+        {
+          "id": "t-5",
+          "label": "Requirements for registration with QCT",
+          "done": false
+        },
+        {
+          "id": "t-6",
+          "label": "CEDR accreditation requirements for teachers",
+          "done": false
+        },
+        {
+          "id": "t-7",
+          "label": "Developing and enhancing quality teaching and learning to promote improved pedagogical practice through collaboration and professional growth",
+          "done": false
+        },
+        {
+          "id": "t-8",
+          "label": "Induction for early career teachers and teachers new to the college",
+          "done": false
+        },
+        {
+          "id": "t-9",
+          "label": "Workplace and community orientation (mandatory training, policy compliance and school processes)",
+          "done": false
+        },
+        {
+          "id": "t-10",
+          "label": "Roles and responsibilities (AITSL Standards, Teacher Portfolio for the purposes of gaining full registration with QCT)",
+          "done": false
+        },
+        {
+          "id": "t-11",
+          "label": "Professional Practices (Explicit Instruction, Behaviour Management skills, RTP and High Impact Teaching Strategies)",
+          "done": false
+        },
+        {
+          "id": "t-12",
+          "label": "Relationships and wellbeing (Mentoring)",
+          "done": false
+        },
+        {
+          "id": "t-13",
+          "label": "Workplace and Community Orientation",
+          "done": false
+        },
+        {
+          "id": "t-14",
+          "label": "Phase A - Initial visit to the College",
+          "done": false
+        },
+        {
+          "id": "t-15",
+          "label": "Phase B - First Formal Attendance at College",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-2",
+      "title": "Either",
+      "items": [
+        {
+          "id": "t-16",
+          "label": "Term 1: January - week prior to student\u2019s arriving",
+          "done": false
+        },
+        {
+          "id": "t-17",
+          "label": "Phase C - As per schedule over the course of the year",
+          "done": false
+        },
+        {
+          "id": "t-18",
+          "label": "Further elaboration of school processes and policies",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-3",
+      "title": "Reporting",
+      "items": [
+        {
+          "id": "t-19",
+          "label": "Professional Practices (Explicit Instruction, Behaviour Management skills, RTP and High Impact Teaching Strategies)-See Appendices",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-4",
+      "title": "Goal Setting",
+      "items": [
+        {
+          "id": "t-20",
+          "label": "Phase D - Ongoing Review and Support including:",
+          "done": false
+        },
+        {
+          "id": "t-21",
+          "label": "Goal setting and Observation Cycle",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-5",
+      "title": "Phase A",
+      "items": [
+        {
+          "id": "t-22",
+          "label": "Upon arrival at St Patrick\u2019s College for the first visit and orientation",
+          "done": false
+        },
+        {
+          "id": "t-23",
+          "label": "SUPPORT PERSON: Office Manager",
+          "done": false
+        },
+        {
+          "id": "t-24",
+          "label": "SUPPORT PERSON: Principal/Deputy Principal or AP Administration/AP Welfare",
+          "done": false
+        },
+        {
+          "id": "t-25",
+          "label": "SUPPORT PERSON: AP MIssion",
+          "done": false
+        },
+        {
+          "id": "t-26",
+          "label": "SUPPORT PERSON: Educational Mentor",
+          "done": false
+        },
+        {
+          "id": "t-27",
+          "label": "SUPPORT PERSON: Buddy Teacher",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-6",
+      "title": "Checklist",
+      "items": [
+        {
+          "id": "t-28",
+          "label": "DETAILS",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-7",
+      "title": "ACTION",
+      "items": [
+        {
+          "id": "t-29",
+          "label": "DATE",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-8",
+      "title": "Office Manager",
+      "items": [
+        {
+          "id": "t-30",
+          "label": "Staff Personal Details Form",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-9",
+      "title": "Staff Immunisation Form",
+      "items": [
+        {
+          "id": "t-31",
+          "label": "Authorisation for Payroll deduction (as applicable)",
+          "done": false
+        },
+        {
+          "id": "t-32",
+          "label": "IT Admin (email address, photo and password)",
+          "done": false
+        },
+        {
+          "id": "t-33",
+          "label": "ESS Manager (email address/payroll access)",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-10",
+      "title": "Teacher Registration",
+      "items": [
+        {
+          "id": "t-34",
+          "label": "Newsletter profile",
+          "done": false
+        },
+        {
+          "id": "t-35",
+          "label": "Allocate pigeonhole",
+          "done": false
+        },
+        {
+          "id": "t-36",
+          "label": "Order badge",
+          "done": false
+        },
+        {
+          "id": "t-37",
+          "label": "Latest Newsletter is emailed to staff member",
+          "done": false
+        },
+        {
+          "id": "t-38",
+          "label": "Collate Induction Package -Stationery Supplies, College diary, copy of staff handbook, copy of RTP handbook",
+          "done": false
+        },
+        {
+          "id": "t-39",
+          "label": "Principal/Deputy Principal/AP Administration/AP Welfare",
+          "done": false
+        },
+        {
+          "id": "t-40",
+          "label": "Welcome new staff member at Morning Briefing or Staff Meeting",
+          "done": false
+        },
+        {
+          "id": "t-41",
+          "label": "Allocate House group and introduce to House Coordinator",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-11",
+      "title": "Allocate Homeroom",
+      "items": [
+        {
+          "id": "t-42",
+          "label": "Allocate staffroom desk",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-12",
+      "title": "Issue Timetable",
+      "items": [
+        {
+          "id": "t-43",
+          "label": "PGD roster",
+          "done": false
+        },
+        {
+          "id": "t-44",
+          "label": "Staff absence procedures",
+          "done": false
+        },
+        {
+          "id": "t-45",
+          "label": "Introduce new staff members on assembly",
+          "done": false
+        },
+        {
+          "id": "t-46",
+          "label": "AP Mission",
+          "done": false
+        },
+        {
+          "id": "t-47",
+          "label": "Religious life of the College",
+          "done": false
+        },
+        {
+          "id": "t-48",
+          "label": "Mass/Liturgies/Youth Mass/Brekky Van/Prayer at the College.",
+          "done": false
+        },
+        {
+          "id": "t-49",
+          "label": "Charism of St. Patrick\u2019s College",
+          "done": false
+        }
+      ]
+    }
+  ],
+  "ancillary": [
+    {
+      "id": "s-1",
+      "title": "General Induction",
+      "items": [
+        {
+          "id": "t-1",
+          "label": "Staff Induction Handbook",
+          "done": false
+        },
+        {
+          "id": "t-2",
+          "label": "Aims of the induction process",
+          "done": false
+        },
+        {
+          "id": "t-3",
+          "label": "Introducing teachers to the practices, procedures and ethos of St Patrick\u2019s College",
+          "done": false
+        },
+        {
+          "id": "t-4",
+          "label": "Understanding of AITSL requirements for beginning and experienced teachers (including understanding the responsibilities and accountabilities as a member of the teaching profession)",
+          "done": false
+        },
+        {
+          "id": "t-5",
+          "label": "Requirements for registration with QCT",
+          "done": false
+        },
+        {
+          "id": "t-6",
+          "label": "CEDR accreditation requirements for teachers",
+          "done": false
+        },
+        {
+          "id": "t-7",
+          "label": "Developing and enhancing quality teaching and learning to promote improved pedagogical practice through collaboration and professional growth",
+          "done": false
+        },
+        {
+          "id": "t-8",
+          "label": "Induction for early career teachers and teachers new to the college",
+          "done": false
+        },
+        {
+          "id": "t-9",
+          "label": "Workplace and community orientation (mandatory training, policy compliance and school processes)",
+          "done": false
+        },
+        {
+          "id": "t-10",
+          "label": "Roles and responsibilities (AITSL Standards, Teacher Portfolio for the purposes of gaining full registration with QCT)",
+          "done": false
+        },
+        {
+          "id": "t-11",
+          "label": "Professional Practices (Explicit Instruction, Behaviour Management skills, RTP and High Impact Teaching Strategies)",
+          "done": false
+        },
+        {
+          "id": "t-12",
+          "label": "Relationships and wellbeing (Mentoring)",
+          "done": false
+        },
+        {
+          "id": "t-13",
+          "label": "Workplace and Community Orientation",
+          "done": false
+        },
+        {
+          "id": "t-14",
+          "label": "Phase A - Initial visit to the College",
+          "done": false
+        },
+        {
+          "id": "t-15",
+          "label": "Phase B - First Formal Attendance at College",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-2",
+      "title": "Either",
+      "items": [
+        {
+          "id": "t-16",
+          "label": "Term 1: January - week prior to student\u2019s arriving",
+          "done": false
+        },
+        {
+          "id": "t-17",
+          "label": "Phase C - As per schedule over the course of the year",
+          "done": false
+        },
+        {
+          "id": "t-18",
+          "label": "Further elaboration of school processes and policies",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-3",
+      "title": "Reporting",
+      "items": [
+        {
+          "id": "t-19",
+          "label": "Professional Practices (Explicit Instruction, Behaviour Management skills, RTP and High Impact Teaching Strategies)-See Appendices",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-4",
+      "title": "Goal Setting",
+      "items": [
+        {
+          "id": "t-20",
+          "label": "Phase D - Ongoing Review and Support including:",
+          "done": false
+        },
+        {
+          "id": "t-21",
+          "label": "Goal setting and Observation Cycle",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-5",
+      "title": "Phase A",
+      "items": [
+        {
+          "id": "t-22",
+          "label": "Upon arrival at St Patrick\u2019s College for the first visit and orientation",
+          "done": false
+        },
+        {
+          "id": "t-23",
+          "label": "SUPPORT PERSON: Office Manager",
+          "done": false
+        },
+        {
+          "id": "t-24",
+          "label": "SUPPORT PERSON: Principal/Deputy Principal or AP Administration/AP Welfare",
+          "done": false
+        },
+        {
+          "id": "t-25",
+          "label": "SUPPORT PERSON: AP MIssion",
+          "done": false
+        },
+        {
+          "id": "t-26",
+          "label": "SUPPORT PERSON: Educational Mentor",
+          "done": false
+        },
+        {
+          "id": "t-27",
+          "label": "SUPPORT PERSON: Buddy Teacher",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-6",
+      "title": "Checklist",
+      "items": [
+        {
+          "id": "t-28",
+          "label": "DETAILS",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-7",
+      "title": "ACTION",
+      "items": [
+        {
+          "id": "t-29",
+          "label": "DATE",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-8",
+      "title": "Office Manager",
+      "items": [
+        {
+          "id": "t-30",
+          "label": "Staff Personal Details Form",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-9",
+      "title": "Staff Immunisation Form",
+      "items": [
+        {
+          "id": "t-31",
+          "label": "Authorisation for Payroll deduction (as applicable)",
+          "done": false
+        },
+        {
+          "id": "t-32",
+          "label": "IT Admin (email address, photo and password)",
+          "done": false
+        },
+        {
+          "id": "t-33",
+          "label": "ESS Manager (email address/payroll access)",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-10",
+      "title": "Teacher Registration",
+      "items": [
+        {
+          "id": "t-34",
+          "label": "Newsletter profile",
+          "done": false
+        },
+        {
+          "id": "t-35",
+          "label": "Allocate pigeonhole",
+          "done": false
+        },
+        {
+          "id": "t-36",
+          "label": "Order badge",
+          "done": false
+        },
+        {
+          "id": "t-37",
+          "label": "Latest Newsletter is emailed to staff member",
+          "done": false
+        },
+        {
+          "id": "t-38",
+          "label": "Collate Induction Package -Stationery Supplies, College diary, copy of staff handbook, copy of RTP handbook",
+          "done": false
+        },
+        {
+          "id": "t-39",
+          "label": "Principal/Deputy Principal/AP Administration/AP Welfare",
+          "done": false
+        },
+        {
+          "id": "t-40",
+          "label": "Welcome new staff member at Morning Briefing or Staff Meeting",
+          "done": false
+        },
+        {
+          "id": "t-41",
+          "label": "Allocate House group and introduce to House Coordinator",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-11",
+      "title": "Allocate Homeroom",
+      "items": [
+        {
+          "id": "t-42",
+          "label": "Allocate staffroom desk",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-12",
+      "title": "Issue Timetable",
+      "items": [
+        {
+          "id": "t-43",
+          "label": "PGD roster",
+          "done": false
+        },
+        {
+          "id": "t-44",
+          "label": "Staff absence procedures",
+          "done": false
+        },
+        {
+          "id": "t-45",
+          "label": "Introduce new staff members on assembly",
+          "done": false
+        },
+        {
+          "id": "t-46",
+          "label": "AP Mission",
+          "done": false
+        },
+        {
+          "id": "t-47",
+          "label": "Religious life of the College",
+          "done": false
+        },
+        {
+          "id": "t-48",
+          "label": "Mass/Liturgies/Youth Mass/Brekky Van/Prayer at the College.",
+          "done": false
+        },
+        {
+          "id": "t-49",
+          "label": "Charism of St. Patrick\u2019s College",
+          "done": false
+        }
+      ]
+    }
+  ],
+  "leadership": [
+    {
+      "id": "s-1",
+      "title": "General Induction",
+      "items": [
+        {
+          "id": "t-1",
+          "label": "Staff Induction Handbook",
+          "done": false
+        },
+        {
+          "id": "t-2",
+          "label": "Aims of the induction process",
+          "done": false
+        },
+        {
+          "id": "t-3",
+          "label": "Introducing teachers to the practices, procedures and ethos of St Patrick\u2019s College",
+          "done": false
+        },
+        {
+          "id": "t-4",
+          "label": "Understanding of AITSL requirements for beginning and experienced teachers (including understanding the responsibilities and accountabilities as a member of the teaching profession)",
+          "done": false
+        },
+        {
+          "id": "t-5",
+          "label": "Requirements for registration with QCT",
+          "done": false
+        },
+        {
+          "id": "t-6",
+          "label": "CEDR accreditation requirements for teachers",
+          "done": false
+        },
+        {
+          "id": "t-7",
+          "label": "Developing and enhancing quality teaching and learning to promote improved pedagogical practice through collaboration and professional growth",
+          "done": false
+        },
+        {
+          "id": "t-8",
+          "label": "Induction for early career teachers and teachers new to the college",
+          "done": false
+        },
+        {
+          "id": "t-9",
+          "label": "Workplace and community orientation (mandatory training, policy compliance and school processes)",
+          "done": false
+        },
+        {
+          "id": "t-10",
+          "label": "Roles and responsibilities (AITSL Standards, Teacher Portfolio for the purposes of gaining full registration with QCT)",
+          "done": false
+        },
+        {
+          "id": "t-11",
+          "label": "Professional Practices (Explicit Instruction, Behaviour Management skills, RTP and High Impact Teaching Strategies)",
+          "done": false
+        },
+        {
+          "id": "t-12",
+          "label": "Relationships and wellbeing (Mentoring)",
+          "done": false
+        },
+        {
+          "id": "t-13",
+          "label": "Workplace and Community Orientation",
+          "done": false
+        },
+        {
+          "id": "t-14",
+          "label": "Phase A - Initial visit to the College",
+          "done": false
+        },
+        {
+          "id": "t-15",
+          "label": "Phase B - First Formal Attendance at College",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-2",
+      "title": "Either",
+      "items": [
+        {
+          "id": "t-16",
+          "label": "Term 1: January - week prior to student\u2019s arriving",
+          "done": false
+        },
+        {
+          "id": "t-17",
+          "label": "Phase C - As per schedule over the course of the year",
+          "done": false
+        },
+        {
+          "id": "t-18",
+          "label": "Further elaboration of school processes and policies",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-3",
+      "title": "Reporting",
+      "items": [
+        {
+          "id": "t-19",
+          "label": "Professional Practices (Explicit Instruction, Behaviour Management skills, RTP and High Impact Teaching Strategies)-See Appendices",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-4",
+      "title": "Goal Setting",
+      "items": [
+        {
+          "id": "t-20",
+          "label": "Phase D - Ongoing Review and Support including:",
+          "done": false
+        },
+        {
+          "id": "t-21",
+          "label": "Goal setting and Observation Cycle",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-5",
+      "title": "Phase A",
+      "items": [
+        {
+          "id": "t-22",
+          "label": "Upon arrival at St Patrick\u2019s College for the first visit and orientation",
+          "done": false
+        },
+        {
+          "id": "t-23",
+          "label": "SUPPORT PERSON: Office Manager",
+          "done": false
+        },
+        {
+          "id": "t-24",
+          "label": "SUPPORT PERSON: Principal/Deputy Principal or AP Administration/AP Welfare",
+          "done": false
+        },
+        {
+          "id": "t-25",
+          "label": "SUPPORT PERSON: AP MIssion",
+          "done": false
+        },
+        {
+          "id": "t-26",
+          "label": "SUPPORT PERSON: Educational Mentor",
+          "done": false
+        },
+        {
+          "id": "t-27",
+          "label": "SUPPORT PERSON: Buddy Teacher",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-6",
+      "title": "Checklist",
+      "items": [
+        {
+          "id": "t-28",
+          "label": "DETAILS",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-7",
+      "title": "ACTION",
+      "items": [
+        {
+          "id": "t-29",
+          "label": "DATE",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-8",
+      "title": "Office Manager",
+      "items": [
+        {
+          "id": "t-30",
+          "label": "Staff Personal Details Form",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-9",
+      "title": "Staff Immunisation Form",
+      "items": [
+        {
+          "id": "t-31",
+          "label": "Authorisation for Payroll deduction (as applicable)",
+          "done": false
+        },
+        {
+          "id": "t-32",
+          "label": "IT Admin (email address, photo and password)",
+          "done": false
+        },
+        {
+          "id": "t-33",
+          "label": "ESS Manager (email address/payroll access)",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-10",
+      "title": "Teacher Registration",
+      "items": [
+        {
+          "id": "t-34",
+          "label": "Newsletter profile",
+          "done": false
+        },
+        {
+          "id": "t-35",
+          "label": "Allocate pigeonhole",
+          "done": false
+        },
+        {
+          "id": "t-36",
+          "label": "Order badge",
+          "done": false
+        },
+        {
+          "id": "t-37",
+          "label": "Latest Newsletter is emailed to staff member",
+          "done": false
+        },
+        {
+          "id": "t-38",
+          "label": "Collate Induction Package -Stationery Supplies, College diary, copy of staff handbook, copy of RTP handbook",
+          "done": false
+        },
+        {
+          "id": "t-39",
+          "label": "Principal/Deputy Principal/AP Administration/AP Welfare",
+          "done": false
+        },
+        {
+          "id": "t-40",
+          "label": "Welcome new staff member at Morning Briefing or Staff Meeting",
+          "done": false
+        },
+        {
+          "id": "t-41",
+          "label": "Allocate House group and introduce to House Coordinator",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-11",
+      "title": "Allocate Homeroom",
+      "items": [
+        {
+          "id": "t-42",
+          "label": "Allocate staffroom desk",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "s-12",
+      "title": "Issue Timetable",
+      "items": [
+        {
+          "id": "t-43",
+          "label": "PGD roster",
+          "done": false
+        },
+        {
+          "id": "t-44",
+          "label": "Staff absence procedures",
+          "done": false
+        },
+        {
+          "id": "t-45",
+          "label": "Introduce new staff members on assembly",
+          "done": false
+        },
+        {
+          "id": "t-46",
+          "label": "AP Mission",
+          "done": false
+        },
+        {
+          "id": "t-47",
+          "label": "Religious life of the College",
+          "done": false
+        },
+        {
+          "id": "t-48",
+          "label": "Mass/Liturgies/Youth Mass/Brekky Van/Prayer at the College.",
+          "done": false
+        },
+        {
+          "id": "t-49",
+          "label": "Charism of St. Patrick\u2019s College",
+          "done": false
+        }
+      ]
+    }
+  ]
+}
